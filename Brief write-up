@@ -1,0 +1,17 @@
+In designing the ToDoList app, my primary focus was on creating a user-friendly interface and ensuring smooth functionality. Here's a brief overview of my thought process and design decisions:
+
+1. User Interface Design: At first, I aimed for a clean and intuitive interface following the Material Design guidelines. This includes using appropriate colors, typography, and layout to enhance usability.
+
+2. Task Management Features: The app allows users to create, edit, and delete tasks easily. Each task includes essential details such as title, description, and due date. Users can prioritize tasks by setting a priority level, helping them focus on what's most important.
+
+3. Reminders and Notifications: To help users stay on track, the app includes a feature to set reminders for tasks that are due soon. Additionally, the app pushes notifications based on task expiration, ensuring users never miss a deadline.
+
+4. Sorting Options: Users can sort their tasks based on due date and creation date. This flexibility allows users to organize their tasks according to their preferences and workflow.
+
+5. Data Persistence: The app is designed to save user data reliably, even if they close the app or restart their phone. This ensures that users' task lists are always accessible and up to date.
+
+6. Architecture and State Management: I chose to implement the app using the Flutter framework and Dart programming language. To manage the app's state efficiently, I adopted the BLoC (Business Logic Component) pattern, which separates business logic from UI components. This helps in maintaining a clean and scalable codebase.
+
+7. Documentation and Clean Code: Throughout the development process, I prioritized writing clean and well-documented code. This makes it easier for other developers to understand and contribute to the project in the future.
+
+8. Version Control: To manage the codebase effectively, I used version control (e.g., Git). This allows for collaboration, keeps track of changes, and enables easy rollback if needed.
