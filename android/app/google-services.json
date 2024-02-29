@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22253399595",
+    "project_id": "quantum-ee719",
+    "storage_bucket": "quantum-ee719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22253399595:android:10e3585dc9e535946b846e",
+        "android_client_info": {
+          "package_name": "com.example.quantum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALNvW5xpb7oeUgSRfRKGFh7qk6nfgC4fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
